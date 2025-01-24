@@ -16,7 +16,7 @@ I'm passionate about coding and love exploring new technologies. With a strong f
   Well-versed in the banking sector, particularly in **payments systems**, and experienced in the e-commerce domain, with expertise in **inventory handling and management systems**,   bringing domain knowledge to develop robust technology solutions.
 
 - **Web Development**:  
-  Currently expanding my skill set with web technologies like **HTML, CSS, JavaScript, and Node.js**.  
+  Currently expanding my skill set with web technologies like **HTML, CSS, JavaScript, and React**.  
 
 ---
 
