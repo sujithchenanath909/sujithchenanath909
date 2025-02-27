@@ -17,7 +17,8 @@ I'm passionate about coding and love exploring new technologies. With a strong f
 
 - **Web Development**:  
   Currently expanding my skill set with web technologies like **HTML, CSS, JavaScript, and React**.  
-
+- **Cloud Native**:
+  Rich experience in building cloud native applications
 ---
 
 ## 🌟 Interests & Goals  
