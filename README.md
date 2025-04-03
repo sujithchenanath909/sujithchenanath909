@@ -38,6 +38,6 @@ I'm currently exploring the exciting world of **web development** to complement 
 
 - **Portfolio**: [sujithchenanath.in](https://sujithchenanath.in)  
 - **LinkedIn**: [Sujith Chenanath](https://www.linkedin.com/in/sujithchenanath/)
-- **MediumBlogs**: [Sujith Chenanath](https://sujithchenanath.medium.com/)  
+- **Medium**: [Sujith Chenanath-Tech WriteUps](https://sujithchenanath.medium.com/)  
 
 Let’s build something amazing together! 🚀  
