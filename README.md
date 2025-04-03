@@ -37,6 +37,7 @@ I'm currently exploring the exciting world of **web development** to complement 
 ## 📫 Let's Connect  
 
 - **Portfolio**: [sujithchenanath.in](https://sujithchenanath.in)  
-- **LinkedIn**: [Sujith Chenanath](https://www.linkedin.com/in/sujithchenanath/)  
+- **LinkedIn**: [Sujith Chenanath](https://www.linkedin.com/in/sujithchenanath/)
+- **MediumBlogs**: [Sujith Chenanath](https://sujithchenanath.medium.com/)  
 
 Let’s build something amazing together! 🚀  
