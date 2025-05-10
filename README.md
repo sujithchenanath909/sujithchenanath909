@@ -40,4 +40,4 @@ I'm currently exploring the exciting world of **web development** to complement 
 - **LinkedIn**: [Sujith Chenanath](https://www.linkedin.com/in/sujithchenanath/)
 - **Medium**: [Sujith Chenanath-Tech WriteUps](https://sujithchenanath.medium.com/)  
 
-Let’s build something amazing together! 🚀  
+Let’s build something amazing together! 🚀  🚀  
